@@ -9,3 +9,6 @@ Code block example:
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] This item has been completed
+- [ ] This item has not been completed
